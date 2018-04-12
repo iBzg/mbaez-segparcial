@@ -1,0 +1,7 @@
+ServerAdmin isa.baezg@gmail.com
+ServerName www.mbaez.org
+DocumentRoot /var/www/mbaez.org
+ErrorDocument 404 "Recurso no disponible"
+
+ErrorLog ${APACHE_LOG_DIR}/error_mbaez-org.log
+CustomLog ${APACHE_LOG_DIR}/access_mbaez-org.log combined

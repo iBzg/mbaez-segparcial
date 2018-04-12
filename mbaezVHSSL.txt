@@ -1,0 +1,9 @@
+ServerAdmin isa.baezg@gmail.com
+ServerName www.mbaez.org
+DocumentRoot /var/www/mbaez.org
+
+ErrorLog ${APACHE_LOG_DIR}/error_mbaez-org.log
+CustomLog ${APACHE_LOG_DIR}/access_mbaez-org.log combined
+
+SSLCertificateFile	/etc/ssl/certs/mbaez.crt
+SSLCertificateKeyFile /etc/ssl/private/mbaez.key

@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+	color: #FC00B6;
+	text-shadow: 3px 3px black;
+}
+body{
+	background-color: #B85D9F;
+}
+
+form{
+	border-color: black;
+	border-style: inset;
+	margin: 200px 400px 50px 400px;
+	font-size: 25px;
+	background-color: #908F90;
+}
+
+
+#menu{
+	background-color: #D4D1D3;
+	font-size: 20px;
+	margin: 200px 750px 50px 500px;
+}
+
+p{
+	font-style: oblique;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+}
