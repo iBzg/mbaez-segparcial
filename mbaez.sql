@@ -1,6 +1,6 @@
 CREATE USER examen2;
 
-CREATE DATABASE nombre_db WITH OWNER examen2;
+CREATE DATABASE segundoexamenbd WITH OWNER examen2;
 
 GRANT ALL PRIVILEGES ON DATABASE segundoexamenbd TO examen2;
 
